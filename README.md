@@ -20,15 +20,10 @@
 </p>
 <br>
 <h2 align="center">Contact me (>人<)</h2>
-<p align="center"> <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/ThaiPham%231406%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+<p align="center"> <a href="thaiphm0303@gmail.com
+"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>  <a href="https://www.linkedin.com/in/thai-x-pham/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></p>
 
-  <p alig="center">
-    <a href="thaiphm0303@gmail.com
-"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
-  </p>
-   <p alig="center">
-    <a href="https://www.linkedin.com/in/thai-x-pham/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-  </p>
+ 
 
 
 </body>
