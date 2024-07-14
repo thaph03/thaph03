@@ -19,7 +19,7 @@
   </a>
 </p>
 <br>
-<h2 align="center"> [Contact me](https://sorrowinapril.vercel.app/) (>人<)</h2>
+<h2 align="center" href="https://sorrowinapril.vercel.app/" >Contact me (>人<)</h2>
 <p align="center"> 
 
   <a href="mailto:thaiphm0303@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
