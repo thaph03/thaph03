@@ -12,7 +12,7 @@
 <b>Loves:</b> Developing passionate fullstack web applications and occasionally backend projects
 </li>
 <br>
-<h2 align="center">Knowledges of Programming Languages, Frameworks and Developer Tools ᕦ(ò_óˇ)ᕤ</h2>
+<h2 align="center">Knowledgesᕦ(ò_óˇ)ᕤ</h2>
 <p align=center>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,nodejs,express,mongodb,firebase,supabase,py,cpp,java,git,linux,vscode" />
