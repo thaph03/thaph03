@@ -9,13 +9,13 @@
 <b>Hobbies:</b> Anime & Coding
 </li>
 <li>
-<b>Loves:</b> Developing passionates web app projects.
+<b>Loves:</b> Developing passionate fullstack web applications and occasionally backend projects
 </li>
 <br>
 <h2 align="center">Knowledge ᕦ(ò_óˇ)ᕤ</h2>
 <p align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,nodejs" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,nodejs,firebase,supabase,py" />
   </a>
 </p>
 
