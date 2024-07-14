@@ -19,10 +19,14 @@
   </a>
 </p>
 <br>
-<h2 align="center" href="https://sorrowinapril.vercel.app/">Contact me (>人<)</h2>
-<p align="center"> <a href="thaiphm0303@gmail.com
-"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a> 
-  <a href="https://www.linkedin.com/in/thai-x-pham/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></p>
+<h2 align="center"> [Contact me](https://sorrowinapril.vercel.app/) (>人<)</h2>
+<p align="center"> 
+
+  <a href="mailto:thaiphm0303@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+
+  <a href="https://www.linkedin.com/in/thai-x-pham/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+  
+  </p>
 
  
 
