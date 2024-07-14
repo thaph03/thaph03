@@ -27,9 +27,9 @@
   
 <p align="center"> 
   <a href="mailto:thaiphm0303@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+  <a href="https://www.linkedin.com/in/thai-x-pham/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
   </p>
 
  
-<p align="center"><a href="https://www.linkedin.com/in/thai-x-pham/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a></p>
 
 </body>
